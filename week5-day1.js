@@ -20,6 +20,8 @@ var menuLinks = [
   mainEl.innerHTML = '<h1>SEI Rocks!</h1>';
   mainEl.classList.add('flex-ctr'); 
   
+ 
+  
 
 let  topMenuEl = document.getElementById('top-menu');
 topMenuEl.style.height = '100%';
